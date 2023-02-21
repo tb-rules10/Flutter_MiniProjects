@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:quizzler/question.dart';
 import 'quizBrain.dart';
 
 void main() => runApp(Quizzler());
